@@ -13,6 +13,7 @@
   - Terraform
 </b>
 
+*_inventory update in progress_*
 
 ## :books: Projects
 
