@@ -1,19 +1,19 @@
-# Data Engineering Projects
+# :desktop_computer: Data Engineering Projects
 
-## Tools and Technologies
+## :toolbox:Tools and Technologies :hammer_and_wrench:
 <b>
 
-- Cloud
+- :cloud: Cloud 
   - AWS
   - Azure
   - GCP
   
-- DevOps
+- :building_construction: DevOps
   - Docker
   - Terraform
 </b>
 
 
-## Projects
+## :books: Projects
 
 1. Running Postgres database and pgAdmin with Docker compose
