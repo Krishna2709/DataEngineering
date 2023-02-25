@@ -19,7 +19,7 @@ docker run -it \
   -e POSTGRES_USER="<user-name>" \
   -e POSTGRES_PASSWORD="<password>" \
   -e POSTGRES_DB="<database-name-in-Postgres>" \
-  -v <whole-path-to-ny_taxi_postgres_data>:/var/lib/postgresql/data \
+  -v <whole-path-to: ny_taxi_postgres_data>:/var/lib/postgresql/data \
   -p 5432:5432 \
   --network=<docker-network-created-above> \
   --name <host-name> \
