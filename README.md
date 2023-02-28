@@ -18,3 +18,4 @@
 ## :books: Projects
 
 1. Running Postgres database and pgAdmin with Docker compose
+2. Configuring GCP using Terraform
