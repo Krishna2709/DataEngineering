@@ -7,4 +7,4 @@ Configuring GCP resources using Terraform
 - Created a Terraform script to configure GCP resources: BigQuery & Google Cloud Storage
 
 ### 🖥️ Setup
-> to be added
+> to be added...
