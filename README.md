@@ -18,4 +18,8 @@
 ## :books: Projects
 
 1. Running Postgres database and pgAdmin with Docker compose
-2. Configuring GCP using Terraform
+2. Creating GCP Infrastructure with Terraform
+
+
+## :briefcase: Resources:
+- Data Engineering Zoomcamp: https://github.com/DataTalksClub/data-engineering-zoomcamp
