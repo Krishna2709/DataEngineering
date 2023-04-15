@@ -11,6 +11,7 @@
 - :building_construction: DevOps
   - Docker
   - Terraform
+  - Prefect
 </b>
 
 *_inventory update in progress_*
