@@ -20,6 +20,7 @@
 
 1. Running Postgres database and pgAdmin with Docker compose
 2. Creating GCP Infrastructure with Terraform
+3. Google BigQuery Data Warehouse
 
 
 ## :briefcase: Resources:
