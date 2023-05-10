@@ -20,7 +20,8 @@
 
 1. Running Postgres database and pgAdmin with Docker compose
 2. Creating GCP Infrastructure with Terraform
-3. Google BigQuery Data Warehouse
+3. Google BigQuery Data Warehouse: Analysing the data using BigQuery and Machine Learning
+4. Analytics Engineering: Transforming the data loaded in DWH to Analytical Views developing a dbt project.
 
 
 ## :briefcase: Resources:
