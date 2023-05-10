@@ -12,6 +12,7 @@
   - Docker
   - Terraform
   - Prefect
+  - BigQuery
 </b>
 
 *_inventory update in progress_*
